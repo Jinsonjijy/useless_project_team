@@ -51,6 +51,7 @@ For Software:
 For those who set alarms they never intend to wake up to, *INFINITE ALARM CLOCK* is the perfectly useless solution. Instead of a loud alarm that rudely interrupts your sleep, infinite 
 alarm clock simply pretends to ring by printing “alarm is ringing” on the screen. Ideal for anyone who needs to feel responsible without the hassle of actually waking up!
 "BABY APPROVED"
+**only major parts of source program was added as github only support 100mb **
 "
 
 # Screenshots (Add at least 3)
