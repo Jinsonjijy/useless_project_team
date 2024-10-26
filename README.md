@@ -1,95 +1,89 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Infite Alarm Clock] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Logic Bytes]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Jinson Jiji] - [College Of Engineering Perumon]
+- Member 2: [Muhammed Sabir] - [College Of Engineering Perumon]
+- Member 3: [Sidharth B Sunil] - [College Of Engineering Perumon]
 
 ### Project Description
-[2-3 lines about what your project does]
+[It is an alarm clock that doesnt't make noises 🤫 ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[To those who don't want to wake up to an alarm 😁]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[An app with no regrets for setting an alarm]
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Dart]
+- [Flutter]
+- [Sdk]
+- [ChatGPT,Gemini,Stackoverflow,Blackbox]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[1.Install Flutter]
+[2.Install Android Studio]
+[3.Install Vs Code]
+[4.Install Git]
+[5.Install Jdk]
+
 
 # Run
-[commands]
+[1.Flutter run in vscode terminal]
+[2.Can run in emulator or the device]
 
 ### Project Documentation
-For Software:
+
+“The alarm that says it’s ringing, but never actually does”
+For those who set alarms they never intend to wake up to, *INFINITE ALARM CLOCK* is the perfectly useless solution. Instead of a loud alarm that rudely interrupts your sleep, infinite 
+alarm clock simply pretends to ring by printing “alarm is ringing” on the screen. Ideal for anyone who needs to feel responsible without the hassle of actually waking up!
+"BABY APPROVED"
+"
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![IMG-20241026-WA0003](https://github.com/user-attachments/assets/700c263a-b51d-4cae-839b-befb127eee37)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Home page with a clock*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![IMG-20241026-WA0004](https://github.com/user-attachments/assets/53ea4227-e840-41c8-924d-a07f589c2368)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![IMG-20241026-WA0005](https://github.com/user-attachments/assets/38b47a6e-d3f5-4722-9ea8-332a3bdea42c)
 
-For Hardware:
+*Alarm setting page*
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+![IMG-20241026-WA0006](https://github.com/user-attachments/assets/7be2ab46-3232-4ac7-8264-1eaf3dea20c1)
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+*The star of the show silence!*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+https://github.com/user-attachments/assets/441caa1d-7bcd-48a3-bfb1-72b60f737cfc
+
+*Demonstrates the working*
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Jinson Jiji]: [UI designing]
+- [Muhammed Sabir]: [Bug fixing,documentation]
+- [Sidharth B Sunil]: [Backend developer]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
