@@ -5,6 +5,7 @@
 
 ## Basic Details
 ### Team Name: [Logic Bytes]
+### Video link of our project -[https://drive.google.com/file/d/1m37b49syN1oOnvCOJmVEH5Qym9Ae5vZj/view?usp=drive_link]
 
 
 ### Team Members
